@@ -1,0 +1,2 @@
+Prefix plugins/DeepLearningClassification/example
+Plugin DeepLearningClassification inputfile input1 outputfile output1
