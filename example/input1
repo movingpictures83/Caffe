@@ -1,7 +1,7 @@
-plugins/DeepLearningClassification/example/models/bvlc_alexnet/deploy.prototxt
-plugins/DeepLearningClassification/example/models/bvlc_alexnet/bvlc_alexnet.caffemodel
-plugins/DeepLearningClassification/example/data.pkl
-plugins/DeepLearningClassification/example/data/ilsvrc12/synset_words.txt
-plugins/DeepLearningClassification/example/data/ilsvrc12/ilsvrc_2012_mean.npy
-plugins/DeepLearningClassification/example/images/cat.jpg
-plugins/DeepLearningClassification/example/images/fish-bike.jpg
+plugins/Caffe/example/models/bvlc_alexnet/deploy.prototxt
+plugins/Caffe/example/models/bvlc_alexnet/bvlc_alexnet.caffemodel
+plugins/Caffe/example/data.pkl
+plugins/Caffe/example/data/ilsvrc12/synset_words.txt
+plugins/Caffe/example/data/ilsvrc12/ilsvrc_2012_mean.npy
+plugins/Caffe/example/images/cat.jpg
+plugins/Caffe/example/images/fish-bike.jpg

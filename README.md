@@ -1,9 +1,9 @@
-# Caffe Plugin
-## About
+# Caffe
 # Language: Python
-# Input: CSV (unnormalized matrix)
-# Output: CSV (matrix normalized across rows)
-# Tested with: PluMA 1.0, Python 3.6, CUDA 8.0
+# Input: TXT
+# Output: TXT
+# Tested with: PluMA 1.0, Python 3.6
+# Dependency: numpy==1.16.0, caffe==1.0.0
 
 This plugin allows one to input a neural network for classifcation as defined by two caffe files that define the weights and model architecture.
 
