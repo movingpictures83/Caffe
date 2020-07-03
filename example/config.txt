@@ -1,2 +1,2 @@
-Prefix plugins/DeepLearningClassification/example
-Plugin DeepLearningClassification inputfile input1 outputfile output1
+Prefix plugins/Caffe/example
+Plugin Caffe inputfile input1 outputfile output1
