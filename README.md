@@ -2,7 +2,7 @@
 # Language: Python
 # Input: TXT
 # Output: TXT
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
 # Dependency: numpy==1.16.0, caffe==1.0.0
 
 This plugin allows one to input a neural network for classifcation as defined by two caffe files that define the weights and model architecture.
