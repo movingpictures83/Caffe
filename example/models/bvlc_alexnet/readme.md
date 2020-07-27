@@ -1,3 +1,4 @@
+Note: You must install bvlc_alexnet.caffemodel according to the URL below, as the file even in compressed form was too large to re-distribute.
 ---
 name: BAIR/BVLC AlexNet Model
 caffemodel: bvlc_alexnet.caffemodel
